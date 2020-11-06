@@ -1,1 +1,2 @@
 # Comunicados
+Bitácora de Comunicados
